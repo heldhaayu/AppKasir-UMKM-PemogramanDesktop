@@ -1,0 +1,116 @@
+C:\Users\Asus\source\repos\ui_db\ui_db\bin\Debug\ui_db.exe.config
+C:\Users\Asus\source\repos\ui_db\ui_db\bin\Debug\ui_db.exe
+C:\Users\Asus\source\repos\ui_db\ui_db\bin\Debug\ui_db.pdb
+C:\Users\Asus\source\repos\ui_db\ui_db\bin\Debug\ui_db.xml
+C:\Users\Asus\source\repos\ui_db\ui_db\bin\Debug\Guna.UI.dll
+C:\Users\Asus\source\repos\ui_db\ui_db\bin\Debug\Guna.UI2.dll
+C:\Users\Asus\source\repos\ui_db\ui_db\obj\Debug\ui_db.vbproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ui_db\ui_db\obj\Debug\ui_db.login.resources
+C:\Users\Asus\source\repos\ui_db\ui_db\obj\Debug\ui_db.menu.resources
+C:\Users\Asus\source\repos\ui_db\ui_db\obj\Debug\ui_db.Resources.resources
+C:\Users\Asus\source\repos\ui_db\ui_db\obj\Debug\ui_db.registrasi.resources
+C:\Users\Asus\source\repos\ui_db\ui_db\obj\Debug\ui_db.vbproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ui_db\ui_db\obj\Debug\ui_db.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ui_db\ui_db\obj\Debug\ui_db.vbproj.CopyComplete
+C:\Users\Asus\source\repos\ui_db\ui_db\obj\Debug\ui_db.exe
+C:\Users\Asus\source\repos\ui_db\ui_db\obj\Debug\ui_db.xml
+C:\Users\Asus\source\repos\ui_db\ui_db\obj\Debug\ui_db.pdb
+C:\Users\Asus\source\repos\ui_db\ui_db\obj\Debug\ui_db.pembayaran.resources
+D:\New folder (2)\ui_db\ui_db\ui_db\bin\Debug\ui_db.exe.config
+D:\New folder (2)\ui_db\ui_db\ui_db\bin\Debug\ui_db.exe
+D:\New folder (2)\ui_db\ui_db\ui_db\bin\Debug\ui_db.pdb
+D:\New folder (2)\ui_db\ui_db\ui_db\bin\Debug\ui_db.xml
+D:\New folder (2)\ui_db\ui_db\ui_db\bin\Debug\Guna.UI.dll
+D:\New folder (2)\ui_db\ui_db\ui_db\bin\Debug\Guna.UI2.dll
+D:\New folder (2)\ui_db\ui_db\ui_db\obj\Debug\ui_db.vbproj.AssemblyReference.cache
+D:\New folder (2)\ui_db\ui_db\ui_db\obj\Debug\ui_db.login.resources
+D:\New folder (2)\ui_db\ui_db\ui_db\obj\Debug\ui_db.Resources.resources
+D:\New folder (2)\ui_db\ui_db\ui_db\obj\Debug\ui_db.pembayaran.resources
+D:\New folder (2)\ui_db\ui_db\ui_db\obj\Debug\ui_db.registrasi.resources
+D:\New folder (2)\ui_db\ui_db\ui_db\obj\Debug\ui_db.transaksi.resources
+D:\New folder (2)\ui_db\ui_db\ui_db\obj\Debug\ui_db.vbproj.GenerateResource.cache
+D:\New folder (2)\ui_db\ui_db\ui_db\obj\Debug\ui_db.vbproj.CoreCompileInputs.cache
+D:\New folder (2)\ui_db\ui_db\ui_db\obj\Debug\ui_db.vbproj.CopyComplete
+D:\New folder (2)\ui_db\ui_db\ui_db\obj\Debug\ui_db.exe
+D:\New folder (2)\ui_db\ui_db\ui_db\obj\Debug\ui_db.xml
+D:\New folder (2)\ui_db\ui_db\ui_db\obj\Debug\ui_db.pdb
+D:\New folder (2)\ui_db\ui_db fix\ui_db\bin\Debug\ui_db.exe.config
+D:\New folder (2)\ui_db\ui_db fix\ui_db\bin\Debug\ui_db.exe
+D:\New folder (2)\ui_db\ui_db fix\ui_db\bin\Debug\ui_db.pdb
+D:\New folder (2)\ui_db\ui_db fix\ui_db\bin\Debug\ui_db.xml
+D:\New folder (2)\ui_db\ui_db fix\ui_db\bin\Debug\Guna.UI.dll
+D:\New folder (2)\ui_db\ui_db fix\ui_db\bin\Debug\Guna.UI2.dll
+D:\New folder (2)\ui_db\ui_db fix\ui_db\obj\Debug\ui_db.vbproj.AssemblyReference.cache
+D:\New folder (2)\ui_db\ui_db fix\ui_db\obj\Debug\ui_db.login.resources
+D:\New folder (2)\ui_db\ui_db fix\ui_db\obj\Debug\ui_db.Resources.resources
+D:\New folder (2)\ui_db\ui_db fix\ui_db\obj\Debug\ui_db.pembayaran.resources
+D:\New folder (2)\ui_db\ui_db fix\ui_db\obj\Debug\ui_db.registrasi.resources
+D:\New folder (2)\ui_db\ui_db fix\ui_db\obj\Debug\ui_db.transaksi.resources
+D:\New folder (2)\ui_db\ui_db fix\ui_db\obj\Debug\ui_db.vbproj.GenerateResource.cache
+D:\New folder (2)\ui_db\ui_db fix\ui_db\obj\Debug\ui_db.vbproj.CoreCompileInputs.cache
+D:\New folder (2)\ui_db\ui_db fix\ui_db\obj\Debug\ui_db.vbproj.CopyComplete
+D:\New folder (2)\ui_db\ui_db fix\ui_db\obj\Debug\ui_db.exe
+D:\New folder (2)\ui_db\ui_db fix\ui_db\obj\Debug\ui_db.xml
+D:\New folder (2)\ui_db\ui_db fix\ui_db\obj\Debug\ui_db.pdb
+D:\kuliah\ui_db fix\ui_db fix\ui_db\obj\Debug\ui_db.vbproj.AssemblyReference.cache
+D:\kuliah\ui_db fix\ui_db fix\ui_db\obj\Debug\ui_db.login.resources
+D:\kuliah\ui_db fix\ui_db fix\ui_db\obj\Debug\ui_db.Resources.resources
+D:\kuliah\ui_db fix\ui_db fix\ui_db\obj\Debug\ui_db.pembayaran.resources
+D:\kuliah\ui_db fix\ui_db fix\ui_db\obj\Debug\ui_db.registrasi.resources
+D:\kuliah\ui_db fix\ui_db fix\ui_db\obj\Debug\ui_db.transaksi.resources
+D:\kuliah\ui_db fix\ui_db fix\ui_db\obj\Debug\ui_db.vbproj.GenerateResource.cache
+D:\kuliah\ui_db fix\ui_db fix\ui_db\obj\Debug\ui_db.vbproj.CoreCompileInputs.cache
+D:\kuliah\ui_db fix\ui_db fix\ui_db\obj\Debug\ui_db.exe
+D:\kuliah\ui_db fix\ui_db fix\ui_db\obj\Debug\ui_db.xml
+D:\kuliah\ui_db fix\ui_db fix\ui_db\obj\Debug\ui_db.pdb
+D:\kuliah\ui_db fix\ui_db fix\ui_db\bin\Debug\ui_db.exe.config
+D:\kuliah\ui_db fix\ui_db fix\ui_db\bin\Debug\ui_db.exe
+D:\kuliah\ui_db fix\ui_db fix\ui_db\bin\Debug\ui_db.pdb
+D:\kuliah\ui_db fix\ui_db fix\ui_db\bin\Debug\ui_db.xml
+D:\kuliah\ui_db fix\ui_db fix\ui_db\bin\Debug\Guna.UI.dll
+D:\kuliah\ui_db fix\ui_db fix\ui_db\bin\Debug\Guna.UI2.dll
+D:\kuliah\ui_db fix\ui_db fix\ui_db\obj\Debug\ui_db.vbproj.CopyComplete
+D:\kuliah\ui_db fix\ui_db fix\ui_db\bin\Debug\stdole.dll
+D:\kuliah\ui_db fix\ui_db fix\ui_db\obj\Debug\ui_db.laporan.resources
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\bin\Debug\ui_db.exe.config
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\bin\Debug\ui_db.exe
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\bin\Debug\ui_db.pdb
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\bin\Debug\ui_db.xml
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\bin\Debug\Guna.UI.dll
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\bin\Debug\Guna.UI2.dll
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\bin\Debug\stdole.dll
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.vbproj.AssemblyReference.cache
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.laporan.resources
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.login.resources
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.Resources.resources
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.pembayaran.resources
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.registrasi.resources
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.transaksi.resources
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.vbproj.GenerateResource.cache
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.vbproj.CoreCompileInputs.cache
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.vbproj.CopyComplete
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.exe
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.xml
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.pdb
+D:\kuliah\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.rekap.resources
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\bin\Debug\ui_db.exe.config
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\bin\Debug\ui_db.exe
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\bin\Debug\ui_db.pdb
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\bin\Debug\ui_db.xml
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\bin\Debug\Guna.UI.dll
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\bin\Debug\Guna.UI2.dll
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\bin\Debug\stdole.dll
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.vbproj.AssemblyReference.cache
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.laporan.resources
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.login.resources
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.Resources.resources
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.pembayaran.resources
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.registrasi.resources
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.rekap.resources
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.transaksi.resources
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.vbproj.GenerateResource.cache
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.vbproj.CoreCompileInputs.cache
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.vbproj.CopyComplete
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.exe
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.xml
+D:\kuliah\semester 3\PEMROGRAMAN DEKSTOP\ui_db fix 1\ui_db fix 1\ui_db fix 1\ui_db fix\ui_db\obj\Debug\ui_db.pdb
